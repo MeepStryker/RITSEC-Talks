@@ -4,6 +4,7 @@
 1. Android Malware, Then and Now
    * [Talk](https://www.youtube.com/watch?v=SkMjpoTPeBQ)
    * [Slides](https://docs.google.com/presentation/d/1cw1hS7ZK4Oir515w1Ae54i-s9ck8eSC38oMcID8EPxI/edit)
+   * [Code](https://github.com/MeepStryker/RITSECAndroidMalware)
 2. Basic Linux Privilege Escalation
    * [Slides](https://docs.google.com/presentation/d/1qCsdHN70ppr5mig1Gc6LT8k4qMsSHwVbRo-KCMgP1mA/edit#slide=id.p)
 3. Mobile Security Health Check
