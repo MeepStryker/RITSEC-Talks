@@ -12,4 +12,4 @@
    * [Slides](https://docs.google.com/presentation/d/16H4BvTKRU6RgrZAsNhMUiJ6euia3dyQD3o8jaGeNnKg/edit?usp=sharing)
 4. How I Got an NDA
    * [Talk](https://engineeredsys.com/wp-content/uploads/2019/08/download.png)
-   * [Slides](https://engineeredsys.com/wp-content/uploads/2019/08/download.png)
+   * [Slides](https://docs.google.com/presentation/d/18Z7J7dfsl1sUn0loPx_bY9VmolGyVMkUI-bHrGVOfLI/edit?usp=sharing)
