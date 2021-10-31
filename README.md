@@ -1,4 +1,5 @@
 # RITSEC-Talks
+A consolidated view of all the talks I've given at RITSEC.
 
 ## Fall 2021
 1. Android Malware, Then and Now
