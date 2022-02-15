@@ -14,3 +14,10 @@ A consolidated view of all the talks I've given at RITSEC.
 4. How I Got an NDA
    * [Talk](https://engineeredsys.com/wp-content/uploads/2019/08/download.png)
    * [Slides](https://docs.google.com/presentation/d/18Z7J7dfsl1sUn0loPx_bY9VmolGyVMkUI-bHrGVOfLI/edit?usp=sharing)
+
+## Spring 2022
+1. All About Shells
+   * [Slides](https://docs.google.com/presentation/d/1GA2EM45r7QpdJJQAjBT3OGEEWGsMcwMuPZIPDTj7nVU/edit?usp=sharing)
+2. Web Security, OWASP, Juice Shop, and Burp Suite
+   * [Slides](https://docs.google.com/presentation/d/1vGzXNEP5jaIPq05l_lJWzclahpkIDY_j9HlqfJv59yU/edit?usp=drivesdk)
+   * [Co-presenter Brad](https://github.com/BradHacker)
