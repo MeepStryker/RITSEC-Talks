@@ -17,8 +17,10 @@ A consolidated view of all the talks I've given at RITSEC.
 
 ## Spring 2022
 1. All About Shells
+   * [Talk](https://www.youtube.com/watch?v=x3csGvSCRVc)
    * [Slides](https://docs.google.com/presentation/d/1GA2EM45r7QpdJJQAjBT3OGEEWGsMcwMuPZIPDTj7nVU/edit?usp=sharing)
 2. Web Security, OWASP, Juice Shop, and Burp Suite
+   * [Talk](https://www.youtube.com/watch?v=ou4cTaVroIc)
    * [Slides](https://docs.google.com/presentation/d/1vGzXNEP5jaIPq05l_lJWzclahpkIDY_j9HlqfJv59yU/edit?usp=drivesdk)
    * [Co-presenter Brad](https://github.com/BradHacker)
 3. IoT Protocols & Attacks
