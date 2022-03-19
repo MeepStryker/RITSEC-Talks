@@ -24,5 +24,6 @@ A consolidated view of all the talks I've given at RITSEC.
    * [Slides](https://docs.google.com/presentation/d/1vGzXNEP5jaIPq05l_lJWzclahpkIDY_j9HlqfJv59yU/edit?usp=drivesdk)
    * [Co-presenter Brad](https://github.com/BradHacker)
 3. IoT Protocols & Attacks
+   * [Talk](https://www.youtube.com/watch?v=yO75s94Zwu0)
    * [Slides](https://docs.google.com/presentation/d/1ix-fcjaVmNsR0--Khtz_fxAmqrH03i5WQxcnraFDuR4/edit?usp=sharing)
    * [Co-presenter Tenchi](https://github.com/0xk7)
